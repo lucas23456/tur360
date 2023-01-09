@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.13" apprev="18080" start="node1">
+  <panorama id="node1">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-20.0211" pan="-167.547" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 10:19:51" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63308999" longitude="39.83167559" source="" nodeid="node1"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="9.926" tilt="4.13" title="" skinid="ht_node" url="{node3}" id="Point01" pan="-234.12" description="" target="$fwd"/>
+      <hotspot distance="10.2893" tilt="1.53" title="" skinid="ht_node" url="{node2}" id="Point02" pan="-97.83" description="" target="$fwd"/>
+      <hotspot distance="6.12019" tilt="-8.46" title="" skinid="ht_node" url="{node4}" id="Point03" pan="-337.72" description="" target=""/>
+    </hotspots>
+    <media>
+      <image tilt="-38.770" rotx="0.000" id="Element01" rotz="0.000" handcursor="0" pan="-161.040" width="1890" roty="0.000" fov="39.565" clickmode="0" height="1417" stretch="1.000">
+        <source url="media/podvodnayalodka.png"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-17.2629" pan="26.9812" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 10:41:16" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63312876" longitude="39.83182579" source="" nodeid="node3"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="16.1584" tilt="-1.24" title="" skinid="ht_node" url="{node2}" id="Point01" pan="-17.28" description="" target="$fwd"/>
+      <hotspot distance="9.926" tilt="-12.67" title="" skinid="ht_node" url="{node1}" id="Point02" pan="-6.33" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-6.60308" pan="26.4645" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 10:38:40" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63315891" longitude="39.83156025" source="" nodeid="node2"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="10.2893" tilt="-10.75" title="" skinid="ht_node" url="{node1}" id="Point01" pan="-270.43" description="" target="$fwd"/>
+      <hotspot distance="16.1584" tilt="0.57" title="" skinid="ht_node" url="{node3}" id="Point02" pan="-269.08" description="" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="-2.97102" overlap="1" width="1920" levelingroll="-3.18" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="11.8619" pan="33.6324" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 10:42:04" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63303542" longitude="39.83166218" source="" nodeid="node4"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="6.12019" tilt="-5.49" title="" skinid="ht_node" url="{node1}" id="Point01" pan="-334.32" description="" target=""/>
+      <hotspot distance="9.42556" tilt="-5.24" title="" skinid="ht_node" url="{node5}" id="Point02" pan="-197.26" description="" target=""/>
+      <hotspot distance="11.7516" tilt="-5.03" title="" skinid="ht_node" url="{node7}" id="Point03" pan="-176.6" description="" target=""/>
+      <hotspot distance="9.72006" tilt="-4.82" title="" skinid="ht_node" url="{node8}" id="Point04" pan="-106.88" description="" target=""/>
+      <hotspot distance="11.4261" tilt="-1.71" title="" skinid="ht_node" url="{node9}" id="Point05" pan="-141.79" description="" target=""/>
+    </hotspots>
+    <media>
+      <image tilt="-26.820" rotx="-19.000" id="Element01" rotz="1.000" handcursor="0" pan="-319.760" width="1890" roty="0.000" fov="30.000" clickmode="0" height="1417" stretch="1.000">
+        <source url="media/234.png"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-12.4254" pan="140.878" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 10:43:06" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63303255" longitude="39.83150393" source="" nodeid="node5"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="9.42556" tilt="-4.03" title="" skinid="ht_node" url="{node4}" id="Point01" pan="-90.19" description="" target=""/>
+      <hotspot distance="9.41109" tilt="-15.62" title="" skinid="ht_node" url="{node7}" id="Point02" pan="-167.97" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-10.0551" pan="-52.0609" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 10:44:45" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="" longitude="" source="" nodeid="node6"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot tilt="-25.35" title="" skinid="ht_node" url="{node7}" id="Point01" pan="-74.6" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-12.7445" pan="75.1748" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 10:46:19" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63295070" longitude="39.83154416" source="" nodeid="node7"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="11.7516" tilt="-5.79" title="" skinid="ht_node" url="{node4}" id="Point01" pan="-41.27" description="" target=""/>
+      <hotspot tilt="4.11" title="" skinid="ht_node" url="{node6}" id="Point02" pan="-228.98" description="" target=""/>
+      <hotspot distance="4.29899" tilt="-11.67" title="" skinid="ht_node" url="{node9}" id="Point03" pan="-139.19" description="" target=""/>
+      <hotspot distance="9.41109" tilt="-8.1" title="" skinid="ht_node" url="{node5}" id="Point04" pan="-334.9" description="" target=""/>
+    </hotspots>
+    <media>
+      <image tilt="-31.530" rotx="-10.000" id="Element01" rotz="-6.000" handcursor="0" pan="-295.630" width="1890" roty="-8.000" fov="44.672" clickmode="0" height="1417" stretch="1.000">
+        <source url="media/Без имени-3.png"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-4.62285" pan="-16.8828" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 10:47:19" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63295070" longitude="39.83170241" source="" nodeid="node8"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="9.72006" tilt="-3.04" title="" skinid="ht_node" url="{node4}" id="Point01" pan="-232.98" description="" target=""/>
+      <hotspot distance="5.65795" tilt="-14.89" title="" skinid="ht_node" url="{node9}" id="Point02" pan="-162" description="" target=""/>
+    </hotspots>
+    <media>
+      <image tilt="-29.020" rotx="-8.000" id="Element01" rotz="0.000" handcursor="0" pan="-2.720" width="1920" roty="0.000" fov="52.689" clickmode="0" height="1080" stretch="1.000">
+        <source url="media/с75.png"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-16.1461" pan="28.4779" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 10:48:01" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63293635" longitude="39.83161122" source="" nodeid="node9"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="11.4261" tilt="-3.46" title="" skinid="ht_node" url="{node4}" id="Point01" pan="-142.3" description="" target=""/>
+      <hotspot distance="13.7884" tilt="-17.36" title="" skinid="ht_node" url="{node10}" id="Point02" pan="-323.41" description="" target=""/>
+      <hotspot distance="4.29899" tilt="-9.66" title="" skinid="ht_node" url="{node7}" id="Point03" pan="-98.48" description="" target=""/>
+      <hotspot distance="5.65795" tilt="-11.06" title="" skinid="ht_node" url="{node8}" id="Point04" pan="-187.41" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-14.8899" pan="10.5189" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 10:48:36" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63281572" longitude="39.83155757" source="" nodeid="node10"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="13.7884" tilt="-14.43" title="" skinid="ht_node" url="{node9}" id="Point01" pan="-158.08" description="" target=""/>
+      <hotspot distance="8.76643" tilt="-21.58" title="" skinid="ht_node" url="{node11}" id="Point02" pan="-334.92" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="-0.00466818" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-10.1842" pan="130.954" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 10:49:14" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63273820" longitude="39.83153075" source="" nodeid="node11"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="8.76643" tilt="-22.64" title="" skinid="ht_node" url="{node10}" id="Point01" pan="-36.87" description="" target=""/>
+      <hotspot distance="7.94077" tilt="-10.44" title="" skinid="ht_node" url="{node12}" id="Point02" pan="-223.09" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-27.2377" pan="77.879" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 10:49:54" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63266927" longitude="39.83149588" source="" nodeid="node12"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="7.94077" tilt="-9.98" title="" skinid="ht_node" url="{node11}" id="Point01" pan="-277.38" description="" target=""/>
+      <hotspot distance="11.4339" tilt="-7.06" title="" skinid="ht_node" url="{node13}" id="Point02" pan="-195.53" description="" target=""/>
+      <hotspot distance="23.8904" tilt="-5.72" title="" skinid="ht_node" url="{node19}" id="Point04" pan="-7.62" description="" target=""/>
+      <hotspot distance="41.4153" tilt="-3.6" title="" skinid="ht_node" url="{node30}" id="Point05" pan="-100.32" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-27.0364" pan="86.1841" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 10:52:02" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63272958" longitude="39.83134031" source="" nodeid="node13"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="11.4339" tilt="-7.51" title="" skinid="ht_node" url="{node12}" id="Point02" pan="-8.85" description="" target=""/>
+      <hotspot distance="29.1166" tilt="-5.17" title="" skinid="ht_node" url="{node55}" id="Point01" pan="-179.3" description="" target=""/>
+    </hotspots>
+    <media>
+      <image tilt="-44.920" rotx="-16.000" id="Element01" rotz="0.000" handcursor="0" pan="-269.240" width="1890" roty="0.000" fov="45.731" clickmode="0" height="1417" stretch="1.000">
+        <source url="media/Samolet.png"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-22.7563" pan="123.486" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 10:56:39" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63287460" longitude="39.83091116" source="" nodeid="node14"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="5.32965" tilt="-3.41" title="" skinid="ht_node" url="{node15}" id="Point01" pan="-229.43" description="" target=""/>
+      <hotspot distance="4.182" tilt="-58.45" title="" skinid="ht_node" url="{node55}" id="Point02" pan="-57.09" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 10:59:11" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63292199" longitude="39.83092457" source="" nodeid="node15"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="5.32965" tilt="-0.08" title="" skinid="ht_node" url="{node14}" id="Point01" pan="-358.31" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-7.28344" pan="-170.512" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:02:16" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63299881" longitude="39.83059466" source="" nodeid="node16"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="4.87057" tilt="-15.82" title="" skinid="ht_node" url="{node56}" id="Point02" pan="-276.77" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:07:50" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63263768" longitude="39.83189285" source="" nodeid="node19"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="4.54126" tilt="-13.59" title="" skinid="ht_node" url="{node20}" id="Point01" pan="-252.2" description="" target=""/>
+      <hotspot distance="23.8904" tilt="-3.33" title="" skinid="ht_node" url="{node12}" id="Point02" pan="-56.29" description="" target=""/>
+    </hotspots>
+    <media>
+      <image tilt="-32.600" rotx="0.000" id="Element01" rotz="4.000" handcursor="0" pan="-207.000" width="1890" roty="2.000" fov="44.154" clickmode="0" height="1417" stretch="1.000">
+        <source url="media/BTR60P.png"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-10.1873" pan="-75.7664" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:09:16" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63263050" longitude="39.83196795" source="" nodeid="node20"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="5.80283" tilt="-11.11" title="" skinid="ht_node" url="{node21}" id="Point01" pan="-54.9" description="" target=""/>
+      <hotspot distance="4.54126" tilt="-11.53" title="" skinid="ht_node" url="{node19}" id="Point02" pan="-336.99" description="" target=""/>
+      <hotspot distance="9.06177" tilt="-11" title="" skinid="ht_node" url="{node24}" id="Point03" pan="-157.05" description="" target=""/>
+    </hotspots>
+    <media>
+      <image tilt="-26.540" rotx="-14.000" id="Element01" rotz="0.000" handcursor="0" pan="-113.760" width="1890" roty="0.000" fov="37.865" clickmode="0" height="1417" stretch="1.000">
+        <source url="media/t54.png"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-21.0811" pan="-179.771" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:10:13" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63268219" longitude="39.83198136" source="" nodeid="node21"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="5.80283" tilt="-12.29" title="" skinid="ht_node" url="{node20}" id="Point01" pan="-178.08" description="" target=""/>
+      <hotspot distance="5.92508" tilt="-3.38" title="" skinid="ht_node" url="{node29}" id="Point02" pan="-114.13" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-15.4563" pan="148.253" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:11:03" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63264916" longitude="39.83214766" source="" nodeid="node22"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="4.71771" tilt="-19.55" title="" skinid="ht_node" url="{node24}" id="Point01" pan="-307.48" description="" target=""/>
+      <hotspot distance="4.71486" tilt="-5.02" title="" skinid="ht_node" url="{node29}" id="Point02" pan="-54.28" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-9.0021" pan="40.9406" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:11:53" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63263840" longitude="39.83220130" source="" nodeid="node23"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="5.98374" tilt="-12.95" title="" skinid="ht_node" url="{node24}" id="Point01" pan="-251.02" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-11.8438" pan="-93.6739" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:14:05" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63261039" longitude="39.83211547" source="" nodeid="node24"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="4.71771" tilt="-19.3" title="" skinid="ht_node" url="{node22}" id="Point01" pan="-63.81" description="" target=""/>
+      <hotspot distance="14.9248" tilt="-5.17" title="" skinid="ht_node" url="{node25}" id="Point02" pan="-134.09" description="" target=""/>
+      <hotspot distance="9.06177" tilt="-9.66" title="" skinid="ht_node" url="{node20}" id="Point03" pan="-322.21" description="" target=""/>
+      <hotspot distance="5.98374" tilt="-10.41" title="" skinid="ht_node" url="{node23}" id="Point04" pan="-119.65" description="" target=""/>
+    </hotspots>
+    <media>
+      <image tilt="-25.290" rotx="-5.000" id="Element01" rotz="0.000" handcursor="0" pan="-96.520" width="1890" roty="0.000" fov="35.828" clickmode="0" height="1417" stretch="1.000">
+        <source url="media/Grad.png"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-27.2558" pan="-56.2382" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:15:58" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63254865" longitude="39.83233809" source="" nodeid="node25"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="14.9248" tilt="-4.53" title="" skinid="ht_node" url="{node24}" id="Point01" pan="-325.53" description="" target=""/>
+      <hotspot distance="3.7956" tilt="-9.08" title="" skinid="ht_node" url="{node26}" id="Point02" pan="-144.66" description="" target=""/>
+      <hotspot distance="9.80356" tilt="-10.11" title="" skinid="ht_node" url="{node27}" id="Point03" pan="-241.46" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:17:15" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63254004" longitude="39.83239979" source="" nodeid="node26"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="3.7956" tilt="-8.23" title="" skinid="ht_node" url="{node25}" id="Point01" pan="-215.1" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-14.8163" pan="-11.4087" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:18:15" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63246393" longitude="39.83229250" source="" nodeid="node27"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="9.80356" tilt="-9.14" title="" skinid="ht_node" url="{node25}" id="Point01" pan="-326.58" description="" target=""/>
+      <hotspot distance="16.9894" tilt="-3.45" title="" skinid="ht_node" url="{node28}" id="Point02" pan="-45.33" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-1.29143" pan="-61.5832" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:19:29" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63240793" longitude="39.83255804" source="" nodeid="node28"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="16.9894" tilt="-5.24" title="" skinid="ht_node" url="{node27}" id="Point01" pan="-334.36" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:24:18" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63266926" longitude="39.83207792" source="" nodeid="node29"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="5.92508" tilt="-32.66" title="" skinid="ht_node" url="{node21}" id="Point01" pan="-293.47" description="" target=""/>
+      <hotspot distance="4.71486" tilt="-34.78" title="" skinid="ht_node" url="{node22}" id="Point02" pan="-106.65" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-8.9713" pan="41.7564" projection="4" fov="110.726"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:26:27" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63231316" longitude="39.83129203" source="" nodeid="node30"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="41.4153" tilt="-2.21" title="" skinid="ht_node" url="{node12}" id="Point01" pan="-124.52" description="" target=""/>
+      <hotspot distance="21.9942" tilt="-15.7" title="" skinid="ht_node" url="{node31}" id="Point02" pan="-310.49" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-8.42852" pan="-82.8591" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:27:28" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63213511" longitude="39.83113110" source="" nodeid="node31"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="21.9942" tilt="-11.21" title="" skinid="ht_node" url="{node30}" id="Point01" pan="-256.4" description="" target=""/>
+      <hotspot distance="11.214" tilt="-6.27" title="" skinid="ht_node" url="{node33}" id="Point02" pan="-74.63" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node33">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-16.9968" pan="105.9" projection="4" fov="101.058"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:29:02" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63204033" longitude="39.83106673" source="" nodeid="node33"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="11.214" tilt="-11.17" title="" skinid="ht_node" url="{node31}" id="Point01" pan="-66.9" description="" target=""/>
+      <hotspot distance="7.12115" tilt="-19.01" title="" skinid="ht_node" url="{node34}" id="Point02" pan="-210.68" description="" target=""/>
+      <hotspot distance="55.223" tilt="-0.91" title="" skinid="ht_node" url="{node35}" id="Point03" pan="-334.88" description="" target=""/>
+      <hotspot distance="29.2853" tilt="-7.81" title="" skinid="ht_node" url="{node53}" id="Point04" pan="-169.5" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node34">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-4.4339" pan="84.4196" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:29:48" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63198002" longitude="39.83102649" source="" nodeid="node34"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="7.12115" tilt="-18.68" title="" skinid="ht_node" url="{node33}" id="Point01" pan="-81.66" description="" target=""/>
+      <hotspot distance="10.979" tilt="-2.04" title="" skinid="ht_node" url="{node52}" id="Point02" pan="-231.92" description="" target=""/>
+      <hotspot distance="31.3328" tilt="-10.1" title="" skinid="ht_node" url="{node51}" id="Point03" pan="-301.13" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-11.8094" pan="-81.2182" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:31:10" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63223562" longitude="39.83021379" source="" nodeid="node35"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="7.85474" tilt="-11.56" title="" skinid="ht_node" url="{node36}" id="Point01" pan="-72.58" description="" target=""/>
+      <hotspot distance="55.223" tilt="1.43" title="" skinid="ht_node" url="{node33}" id="Point02" pan="-252.55" description="" target=""/>
+      <hotspot distance="19.9992" tilt="-7.8" title="" skinid="ht_node" url="{node37}" id="Point03" pan="-29.23" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node36">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="19.1325" pan="-70.758" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:32:09" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63226721" longitude="39.83009577" source="" nodeid="node36"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="7.85474" tilt="-9.47" title="" skinid="ht_node" url="{node35}" id="Point02" pan="-242.13" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node37">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-10.2298" pan="166.203" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:33:11" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63229593" longitude="39.82989728" source="" nodeid="node37"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="19.9992" tilt="-6.94" title="" skinid="ht_node" url="{node35}" id="Point01" pan="-230.53" description="" target=""/>
+      <hotspot distance="23.6073" tilt="-1.41" title="" skinid="ht_node" url="{node38}" id="Point02" pan="-278.49" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node38">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-13.0758" pan="-22.2349" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:34:55" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63210064" longitude="39.82974172" source="" nodeid="node38"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="23.6073" tilt="0.49" title="" skinid="ht_node" url="{node37}" id="Point01" pan="-264.86" description="" target=""/>
+      <hotspot distance="24.4028" tilt="-3.32" title="" skinid="ht_node" url="{node39}" id="Point02" pan="-16.32" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node39">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="14.2529" pan="-64.9312" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:35:58" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63195131" longitude="39.83004212" source="" nodeid="node39"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="24.4028" tilt="-3.88" title="" skinid="ht_node" url="{node38}" id="Point01" pan="-183.44" description="" target=""/>
+      <hotspot distance="4.79074" tilt="-27.94" title="" skinid="ht_node" url="{node40}" id="Point02" pan="-90.94" description="" target=""/>
+      <hotspot distance="6.71313" tilt="-5.44" title="" skinid="ht_node" url="{node41}" id="Point03" pan="-241.48" description="" target=""/>
+      <hotspot distance="27.4649" tilt="0.1" title="" skinid="ht_node" url="{node51}" id="Point04" pan="-290.06" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node40">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="18.43" pan="148.566" projection="4" fov="120"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:37:45" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63191684" longitude="39.82999384" source="" nodeid="node40"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="4.79074" tilt="-29.62" title="" skinid="ht_node" url="{node39}" id="Point01" pan="-175.99" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node41">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-9.11487" pan="156.993" projection="4" fov="110.933"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:38:33" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63200587" longitude="39.83009040" source="" nodeid="node41"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="6.71313" tilt="-5.63" title="" skinid="ht_node" url="{node39}" id="Point01" pan="-286.9" description="" target=""/>
+      <hotspot distance="2.25797" tilt="-25.47" title="" skinid="ht_node" url="{node42}" id="Point02" pan="-253.74" description="" target=""/>
+      <hotspot tilt="-10.34" title="" skinid="ht_url" url="" id="Point03" pan="-355.03" description="" target="_blank"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node42">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-14.3941" pan="-86.3947" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:39:07" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63200300" longitude="39.83012795" source="" nodeid="node42"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="2.25797" tilt="-26" title="" skinid="ht_node" url="{node41}" id="Point01" pan="-25.34" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node43">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-20.0953" pan="26.2315" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:41:05" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63184218" longitude="39.83054102" source="" nodeid="node43"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="7.35254" tilt="-11.38" title="" skinid="ht_node" url="{node44}" id="Point01" pan="-304.48" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node44">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:42:00" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63178761" longitude="39.83047127" source="" nodeid="node44"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="10.9234" tilt="-12.51" title="" skinid="ht_node" url="{node45}" id="Point01" pan="-79.51" description="" target=""/>
+      <hotspot distance="7.35254" tilt="-13" title="" skinid="ht_node" url="{node43}" id="Point02" pan="-345.55" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node45">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-29.2315" pan="-179.527" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:42:43" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63176176" longitude="39.83064830" source="" nodeid="node45"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="9.34912" tilt="-9.92" title="" skinid="ht_node" url="{node49}" id="Point01" pan="-359.58" description="" target=""/>
+      <hotspot distance="10.9234" tilt="-14.34" title="" skinid="ht_node" url="{node44}" id="Point02" pan="-280.65" description="" target=""/>
+      <hotspot distance="8.71624" tilt="-9.76" title="" skinid="ht_node" url="{node46}" id="Point03" pan="-87.35" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node46">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-1.00662" pan="-13.8989" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:43:53" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63172443" longitude="39.83077705" source="" nodeid="node46"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="8.59889" tilt="-8.6" title="" skinid="ht_node" url="{node50}" id="Point01" pan="-5.02" description="" target=""/>
+      <hotspot distance="7.47589" tilt="-9.76" title="" skinid="ht_node" url="{node47}" id="Point02" pan="-86.91" description="" target=""/>
+      <hotspot distance="8.71624" tilt="-7.02" title="" skinid="ht_node" url="{node45}" id="Point03" pan="-290.79" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node47">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-9.05321" pan="45.4504" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:44:43" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63170145" longitude="39.83089507" source="" nodeid="node47"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="7.47589" tilt="-11.51" title="" skinid="ht_node" url="{node46}" id="Point01" pan="-46.23" description="" target=""/>
+      <hotspot distance="9.79557" tilt="-10.8" title="" skinid="ht_node" url="{node48}" id="Point02" pan="-219.99" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node48">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:45:27" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63167273" longitude="39.83105063" source="" nodeid="node48"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="9.79557" tilt="-18.25" title="" skinid="ht_node" url="{node47}" id="Point01" pan="-39.94" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node49">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:46:54" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63184505" longitude="39.83066976" source="" nodeid="node49"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="11.0117" tilt="-4.44" title="" skinid="ht_node" url="{node50}" id="Point01" pan="-345.11" description="" target=""/>
+      <hotspot distance="9.34912" tilt="-11.39" title="" skinid="ht_node" url="{node45}" id="Point02" pan="-74.69" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node50">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="1.93574" pan="-15.3628" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:48:33" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63179623" longitude="39.83083070" source="" nodeid="node50"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="12.932" tilt="-2.67" title="" skinid="ht_node" url="{node52}" id="Point01" pan="-194.03" description="" target=""/>
+      <hotspot distance="8.59889" tilt="-8.91" title="" skinid="ht_node" url="{node46}" id="Point02" pan="-21.01" description="" target=""/>
+      <hotspot distance="11.0117" tilt="-4.71" title="" skinid="ht_node" url="{node49}" id="Point03" pan="-104.64" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node51">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node51/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-0.367632" pan="143.411" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:50:00" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63194844" longitude="39.83050346" source="" nodeid="node51"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="31.3328" tilt="-4.08" title="" skinid="ht_node" url="{node34}" id="Point01" pan="-359.23" description="" target=""/>
+      <hotspot distance="27.4649" tilt="-3.35" title="" skinid="ht_node" url="{node39}" id="Point02" pan="-164.43" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node52">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-14.7092" pan="-75.0591" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:51:38" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63190536" longitude="39.83090580" source="" nodeid="node52"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="10.979" tilt="-0.24" title="" skinid="ht_node" url="{node34}" id="Point01" pan="-253.73" description="" target=""/>
+      <hotspot distance="12.932" tilt="-10.24" title="" skinid="ht_node" url="{node50}" id="Point02" pan="-74.32" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node54">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node54/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-11.4896" pan="-13.9696" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:54:35" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63181633" longitude="39.83189821" source="" nodeid="node54"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="26.1403" tilt="-3.28" title="" skinid="ht_node" url="{node53}" id="Point01" pan="-188.55" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node53">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node53/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-25.4185" pan="-42.0357" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:53:53" tags="Обработнные кладбище" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63191684" longitude="39.83150125" source="" nodeid="node53"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="29.2853" tilt="-1.6" title="" skinid="ht_node" url="{node33}" id="Point01" pan="-127.77" description="" target=""/>
+      <hotspot distance="26.1403" tilt="-4.06" title="" skinid="ht_node" url="{node54}" id="Point02" pan="-305.32" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node55">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node55/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="10.5182" pan="57.3209" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:05:28" tags="Pano2VR6" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63283799" longitude="39.83089507" source="" nodeid="node55"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="25.2896" tilt="-25.1" title="" skinid="ht_node" url="{node16}" id="Point01" pan="-186.42" description="" target=""/>
+      <hotspot distance="4.182" tilt="53.68" title="" skinid="ht_node" url="{node14}" id="Point02" pan="-285.46" description="" target=""/>
+      <hotspot distance="29.1166" tilt="-3.04" title="" skinid="ht_node" url="{node13}" id="Point03" pan="-20.03" description="" target=""/>
+    </hotspots>
+    <media>
+      <image tilt="-17.650" rotx="0.000" id="Element01" rotz="0.000" handcursor="0" pan="-300.150" width="1890" roty="0.000" fov="36.494" clickmode="0" height="1417" stretch="1.000">
+        <source url="media/strizh.png"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node56">
+    <input levelingpitch="0" overlap="1" width="1920" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node56/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1920">
+      <level width="1920" preload="0" predecode="0" height="1920"/>
+      <level width="960" preload="0" predecode="0" height="960"/>
+      <level width="480" preload="1" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-11.7369" pan="62.3671" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="" copyright="" datetime="2022:07:08 11:04:07" tags="Pano2VR6" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="57.63299809" longitude="39.83067647" source="" nodeid="node56"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label bordercolor="0x000000" border="1" width="180" backgroundcolor="0xffffff" borderradius="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" borderalpha="1" background="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot distance="4.87057" tilt="-21.51" title="" skinid="ht_node" url="{node16}" id="Point01" pan="-179.93" description="" target=""/>
+      <hotspot distance="22.0511" tilt="-3.66" title="" skinid="ht_node" url="{node55}" id="Point02" pan="-341.31" description="" target=""/>
+    </hotspots>
+    <media>
+      <image tilt="-36.290" rotx="-12.000" id="Element01" rotz="5.000" handcursor="0" pan="-288.760" width="1890" roty="5.000" fov="36.993" clickmode="0" height="1417" stretch="1.000">
+        <source url="media/VDV.png"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomout="0" zoomoutpause="1" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" lockedmouse="0" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" invertcontrol="1" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" sensitivity="8" lockedwheel="0" contextfullscreen="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" copyright="" datetime="" tags="" author="" info="" heading="0" customnodeid="" description="" comment="" latitude="" longitude="" source="" nodeid="master"/>
+  </masternode>
+</tour>
